@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sadeq-n-yazdi
-- 👀 I’m interested in Free Software and develop softwares
-- 🌱 I’m currently learning image processing
-- 💞️ I’m looking to collaborate on every useful free softare
+- 👋 Hi, I’m @sadeq-n-yazdi. A dad, husband and developer. 
+- 👀 I’m interested in Free Software and develop softwares.
+- 🌱 I’m currently learning image processing.
+- 💞️ I’m looking to collaborate on every useful free softare.
 - 📫 How to reach me call.me‌[‌a‌t‌]‌sadeq‌.‌uk
 
 <!---
